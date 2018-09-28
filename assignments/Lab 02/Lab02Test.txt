@@ -1,0 +1,29 @@
+// Lab02
+// Steven McConnell
+// COSCI 1030 Section 01 Fall 2018
+// Lab 02 Section 10
+// Sep 12, 2018
+
+Test results of first test:
+Please enter a number between 1 and 4: 1
+I eat peas with honey.
+
+Test results of second test:
+Please enter a number between 1 and 4: 2
+I've done it all my life.
+
+Test results of thirs test:
+Please enter a number between 1 and 4: 3
+It makes the peas taste funny.
+
+Test results of fourth test:
+Please enter a number between 1 and 4: 4
+But it keeps them on the knife.
+
+Test results of a number less than 1:
+Please enter a number between 1 and 4: 0
+error
+
+Test results of a number greater than 4:
+Please enter a number between 1 and 4: 5
+error.

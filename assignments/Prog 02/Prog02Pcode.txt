@@ -1,0 +1,20 @@
+// Prog 02
+// Steven McConnell
+// COSCI 1030 Section 01 FAll 2018
+// Programming Assingment 02
+// Sep 12, 2018
+
+Open file.
+User inputs two integers to multiply
+	the program then multiplies the 
+	the first integer and all those in the 
+	bounded list:
+	x * (x+1) * ( x+2) * (x+3) *....
+
+	the second integer is then inversely 
+	multiplied:
+	Y * (y-1) * (y-2) * (y-3) * ....
+
+the program runs and gives an answer 
+the program closes.
+	

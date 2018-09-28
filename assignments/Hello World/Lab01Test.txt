@@ -1,0 +1,10 @@
+// Hello World.exe
+// Steven McConnell
+// COSCI 1030 Section 01 Fall 2018
+// Lab 01 Section 10
+// Sep 5, 2018
+
+Result of program:
+
+What do you want, Commander Steven McConnell?
+Press any key to continue . . .

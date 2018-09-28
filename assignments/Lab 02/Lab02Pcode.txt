@@ -1,0 +1,22 @@
+// Lab Project 02
+// Steven McConnell
+// COSCI 1030 Section 01 Fall 2018
+// Lab 02 Section 10
+// Sep 12, 2018
+
+Open file
+user inputs one of the integers: 1,2,3, and 4
+	if the user inputs 1: the program outputs 
+	"I eat peas with honey."
+	
+	If the user inputs 2: "I've done it all 
+	my life"
+	
+	if the user inputs 3: "It makes the peas
+	taste funny."
+
+	if the user inputs 4: "But it keeps them 
+	on the knife.
+if the number is less than 1 or greater than 0, then 
+the program will not run.
+The file closes and programm is done.

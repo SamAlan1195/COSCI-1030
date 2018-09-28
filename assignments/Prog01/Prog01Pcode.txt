@@ -1,0 +1,9 @@
+open the file
+ask the user for the variables needed
+for each of the four variables:
+	if the variables are full integers then
+	the four will be summed
+	
+display the sum
+close file	
+	
